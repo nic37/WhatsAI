@@ -18,7 +18,7 @@ import { Ban } from "./commands/ban";
 import { Add } from "./commands/add";
 
 import { Group } from "./core/groupMetadata";
-import { WASocket } from "@whiskeysockets/baileys";
+import { WASocket } from "@WhiskeySockets/Baileys";
 
 const NormalizeContent = (msg: proto.IMessage) => {
   let props: TProps = { type: Object.keys(msg)[0] };

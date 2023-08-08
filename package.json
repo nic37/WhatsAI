@@ -30,7 +30,7 @@
     "@ffmpeg-installer/ffmpeg": "^1.1.0",
     "@google-cloud/translate": "^7.1.0",
     "@hapi/boom": "^10.0.0",
-    "@whiskeysockets/baileys": "^6.2.1",
+    "@whiskeysockets/baileys": "https://github.com/WhiskeySockets/Baileys",
     "child_process": "^1.0.2",
     "dotenv": "^16.0.3",
     "fluent-ffmpeg": "^2.1.2",

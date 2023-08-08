@@ -1,5 +1,5 @@
 import { Group } from "../core/groupMetadata";
-import { WASocket } from "@whiskeysockets/baileys";
+import { WASocket } from "@WhiskeySockets/Baileys";
 
 const button = [
   { buttonId: "add", buttonText: { displayText: "Desfazer" }, type: 1 },
